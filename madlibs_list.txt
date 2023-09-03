@@ -8,11 +8,11 @@
 8. Noun (Plural)
 9. Noun
 10. Room Name
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+11. Liquid - soda
+12. Adjective - flawless
+13. Material - leather
+14. Activity - dancing
+15. Adverb - quickly
 16. Number - 1000
 17. Unit of Time - years 
 18. Different Activity - dancing 
