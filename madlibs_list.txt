@@ -3,11 +3,11 @@
 3. Adjective
 4. Color
 5. Month
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. Number- five
+7. Noun (Plural)- tarantulas
+8. Noun (Plural)- boxes
+9. Noun- cake
+10. Room Name- bedroom
 11. Liquid
 12. Adjective
 13. Material
