@@ -13,9 +13,9 @@
 13. Material - leather
 14. Activity - dancing
 15. Adverb - quickly
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+16. Number - 1000
+17. Unit of Time - years 
+18. Different Activity - dancing 
+19. Adjective - sleek
+20. Vehicle - spaceship!!
+21. Your Name - Pragati N
