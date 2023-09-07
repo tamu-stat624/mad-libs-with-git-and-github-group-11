@@ -1,21 +1,21 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
+1. Friend's Name - Jack Sparrow
+2. Adjective - helpless
+3. Adjective - cruel
+4. Color - red
+5. Month - November
 6. Number- five
 7. Noun (Plural)- tarantulas
 8. Noun (Plural)- boxes
 9. Noun- cake
 10. Room Name- bedroom
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+11. Liquid - soda
+12. Adjective - flawless
+13. Material - leather
+14. Activity - dancing
+15. Adverb - quickly
+16. Number - 1000
+17. Unit of Time - years 
+18. Different Activity - dancing 
+19. Adjective - sleek
+20. Vehicle - spaceship!!
+21. Your Name - Pragati N
